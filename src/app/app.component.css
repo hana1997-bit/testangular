@@ -1,0 +1,14 @@
+.nav-link{
+    color: rgb(29, 106, 126) !important;
+  font-size: 18px;
+  font-weight: bolder;
+}
+.nav-link:hover{color: rgb(29, 106, 126) !important;
+    font-weight: bold !important;
+    font-size: 20px;
+}
+.navbar-light{
+    background-color: rgba(230, 237, 240, 0.3);
+}
+
+

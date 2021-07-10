@@ -1,0 +1,19 @@
+.pub{
+    border: 1px solid rgb(242, 244, 245);
+    margin-right: 5px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   border-radius: 15px;
+   box-shadow: 5px 10px #ddecea;
+
+}
+.card-title{
+    color: rgb(7, 34, 109);
+}
+.card-text{
+    color: black !important;
+}
+span{
+    font-size: 10px;
+}
